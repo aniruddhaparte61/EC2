@@ -12,7 +12,7 @@
 
     "InstanceType" : {
       "Description" : "Select one of the possible instance types",
-      "Type" : "String",
+      "Type" : "String"
     },
 	
     "SSHLocation" : {
